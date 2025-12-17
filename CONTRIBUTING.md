@@ -29,24 +29,24 @@ This project highlights open-source AI tools that are:
 Copy/paste and fill this in:
 
 ```markdown
-### Tool Name
+### SWE-Agent
 
 <p>
-<strong>Tool Name</strong> is a short, clear summary describing what the tool does and who it’s for.
+<strong>SWE-Agent</strong> is a research-grade autonomous agent designed to fix real-world GitHub issues by interacting with codebases and tests.
 </p>
 
 <div>
-  <a href="REPO_URL"><img src="https://img.shields.io/badge/Open%20Source-Yes-green"></a>
-  <a href="REPO_URL"><img src="https://img.shields.io/github/stars/OWNER/REPO?style=social"></a>
+  <a href="https://github.com/princeton-nlp/SWE-agent"><img src="https://img.shields.io/badge/Open%20Source-Yes-green"></a>
+  <a href="https://github.com/princeton-nlp/SWE-agent"><img src="https://img.shields.io/github/stars/princeton-nlp/SWE-agent?style=social"></a>
 </div>
 
-<p><strong>Categories:</strong> TAGS_HERE (e.g. 🤖 AI Agents · 💻 Coding Agents)</p>
-<p><strong>GitHub:</strong> ⭐ STAR_COUNT | 🍴 FORK_COUNT (Updated: YYYY-MM-DD)</p>
+<p><strong>Categories:</strong> 💻 Coding Agents · 🤖 AI Agents</p>
+<p><strong>GitHub:</strong> ⭐ 18k+ stars | 🍴 1.9k+ forks</p>
 
 <p>
-<a href="PROJECT_WEBSITE">website</a> |
-<a href="REPO_URL">github</a> |
-<a href="DOCS_URL">docs</a>
+<a href="https://github.com/princeton-nlp/SWE-agent">website</a> |
+<a href="https://github.com/princeton-nlp/SWE-agent">github</a> |
+<a href="https://github.com/princeton-nlp/SWE-agent#readme">docs</a>
 </p>
 
 ---
