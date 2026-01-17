@@ -271,6 +271,48 @@ Each tool includes a short overview, stars, tags, and helpful links so you can e
 
 ---
 
+### SWE-Agent
+<p>
+<strong>SWE-Agent</strong> is a research-grade autonomous agent designed to fix real-world GitHub issues by interacting with codebases and tests.
+</p>
+
+<div>
+  <a href="https://github.com/princeton-nlp/SWE-agent"><img src="https://img.shields.io/badge/Open%20Source-Yes-green"></a>
+  <a href="https://github.com/princeton-nlp/SWE-agent"><img src="https://img.shields.io/github/stars/princeton-nlp/SWE-agent?style=social"></a>
+</div>
+
+<p><strong>Categories:</strong> 💻 Coding Agents · 🤖 AI Agents</p>
+<p><strong>GitHub:</strong> ⭐ 18k+ stars | 🍴 1.9k+ forks</p>
+
+<p>
+<a href="https://github.com/princeton-nlp/SWE-agent">website</a> |
+<a href="https://github.com/princeton-nlp/SWE-agent">github</a> |
+<a href="https://github.com/princeton-nlp/SWE-agent#readme">docs</a>
+  
+---
+  
+### BabyAGI
+
+<p>
+<strong>BabyAGI</strong> is a minimal task-driven autonomous agent framework that demonstrates iterative planning and execution loops.
+</p>
+
+<div>
+  <a href="https://github.com/yoheinakajima/babyagi"><img src="https://img.shields.io/badge/Open%20Source-Yes-green"></a>
+  <a href="https://github.com/yoheinakajima/babyagi"><img src="https://img.shields.io/github/stars/yoheinakajima/babyagi?style=social"></a>
+</div>
+
+<p><strong>Categories:</strong> 🤖 AI Agents</p>
+<p><strong>GitHub:</strong> ⭐ 22k+ stars | 🍴 2.9k+ forks </p>
+
+<p>
+<a href="https://github.com/yoheinakajima/babyagi">website</a> |
+<a href="https://github.com/yoheinakajima/babyagi">github</a> |
+<a href="https://github.com/yoheinakajima/babyagi#readme">docs</a>
+</p>
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome.  
